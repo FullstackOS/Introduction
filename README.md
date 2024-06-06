@@ -13,8 +13,8 @@ Here are some of the technologies and tools I have experience with:
 
 ### Frontend
 - HTML5
-- CSS3
-- JavaScript (ES6+)
+- CSS
+- JavaScript
 <!-- - React.js
 - Angular -->
 
